@@ -1,4 +1,5 @@
-#Sharing Images and Code Snippets on Slack - Best Practices#
+# Sharing Images and Code Snippets on Slack - Best Practices
+
 Starting a thread on images and code snippets is not the same as starting a thread text only thread. Each new reply gets published on the main channel thread and we all agree that it creates a clutter.
 
 ![messy](messy.jpg?raw=true "Messsy")
